@@ -12,6 +12,8 @@ scikit-learn = "*"
 matplotlib = "*"
 statsmodels = "*"
 tensorflow = "*"
+fuzzywuzzy = "*"
+python-levenshtein = "*"
 
 [dev-packages]
 
